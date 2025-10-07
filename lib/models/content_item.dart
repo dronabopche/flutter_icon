@@ -4,6 +4,7 @@ class ContentItem {
   final String gifUrl;
   final String codeSnippet;
   final String description;
+  final String dependencies; // New field
 
   ContentItem({
     required this.id,
@@ -11,6 +12,7 @@ class ContentItem {
     required this.gifUrl,
     required this.codeSnippet,
     required this.description,
+    required this.dependencies, // Added to constructor
   });
 
   // A helper method to create a ContentItem from JSON data Supabase returns
@@ -21,6 +23,7 @@ class ContentItem {
       gifUrl: json['gif_url'],
       codeSnippet: json['code_snippet'],
       description: json['description'],
+      dependencies: json['dependencies'] ?? '', // Handle null case
     );
   }
 }
