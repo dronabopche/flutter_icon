@@ -4,7 +4,7 @@
 *Accelerate development workflows and promote design consistency*
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dronabopche/flutter_icon/main/assets/logo.png" alt="Flutter Icon Logo" width="200" height="200">
+  <img src="https://raw.githubusercontent.com/dronabopche/flutter_icon/main/assets/header.png" alt="Flutter Icon Logo" width="200" height="200">
 </div>
 
 <div align="center">
@@ -33,7 +33,7 @@ Adopted by multiple college projects and hackathon teams for rapid UI developmen
 ## 🎯 About
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dronabopche/flutter_icon/main/assets/logo.png" alt="Flutter Icon Banner" width="400" height="200">
+  <img src="https://raw.githubusercontent.com/dronabopche/flutter_icon/main/assets/banner.png" alt="Flutter Icon Banner" width="400" height="200">
 </div>
 
 Flutter Icon is a comprehensive open-source UI component library founded and developed to streamline Flutter development. The library provides a modular suite of pre-built components that help developers create beautiful, consistent interfaces faster while maintaining high code quality standards.
@@ -160,6 +160,6 @@ If this library helped you, please:
 **Built with ❤️ for the Flutter community**  
 *Making beautiful UI development accessible to everyone*
 
-<img src="https://raw.githubusercontent.com/dronabopche/flutter_icon/main/assets/logo.png" alt="Flutter Icon" width="80" height="80">
+<img src="https://raw.githubusercontent.com/dronabopche/flutter_icon/main/assets/logo.png" alt="Flutter Icon" width="50" height="50">
 
 </div>
