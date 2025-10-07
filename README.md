@@ -4,7 +4,7 @@
 *Accelerate development workflows and promote design consistency*
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dronabopche/flutter_icon/main/assets/header.png" alt="Flutter Icon Logo" width="200" height="30">
+  <img src="https://raw.githubusercontent.com/dronabopche/flutter_icon/main/assets/header.png" alt="Flutter Icon Logo" width="800" height="50">
 </div>
 
 <div align="center">
