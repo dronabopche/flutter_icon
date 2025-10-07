@@ -4,7 +4,7 @@
 *Accelerate development workflows and promote design consistency*
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dronabopche/flutter_icon/main/assets/header.png" alt="Flutter Icon Logo" width="800" height="50">
+  <img src="https://raw.githubusercontent.com/dronabopche/flutter_icon/main/assets/header.png" alt="Flutter Icon Logo" width="1000" height="60">
 </div>
 
 <div align="center">
@@ -12,7 +12,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)
 ![Downloads](https://img.shields.io/pub/v/flutter_icon?style=for-the-badge&color=blue)
 ![Perfect Score](https://img.shields.io/badge/Code%20Quality-100%25-brightgreen?style=for-the-badge)
 
@@ -33,7 +32,7 @@ Adopted by multiple college projects and hackathon teams for rapid UI developmen
 ## 🎯 About
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dronabopche/flutter_icon/main/assets/banner.png" alt="Flutter Icon Banner" width="440" height="300">
+  <img src="https://raw.githubusercontent.com/dronabopche/flutter_icon/main/assets/banner.png" alt="Flutter Icon Banner" width="1600" height="900">
 </div>
 
 Flutter Icon is a comprehensive open-source UI component library founded and developed to streamline Flutter development. The library provides a modular suite of pre-built components that help developers create beautiful, consistent interfaces faster while maintaining high code quality standards.
